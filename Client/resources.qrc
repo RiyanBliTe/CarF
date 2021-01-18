@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/emblem.png</file>
+        <file>images/icon.png</file>
+        <file>images/user16.png</file>
+        <file>images/user32.png</file>
+        <file>images/user64.png</file>
+        <file>images/user128.png</file>
+        <file>images/user256.png</file>
+        <file>images/down-arrow.png</file>
+    </qresource>
+    <qresource prefix="/files">
+        <file>files/countries.txt</file>
+    </qresource>
+</RCC>
